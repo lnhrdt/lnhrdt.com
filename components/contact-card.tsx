@@ -41,8 +41,8 @@ export const ContactCard = () => {
                           href="mailto:hello@lnhrdt.com"/>
                     <Item Icon={Instagram}
                           title="Instagram"
-                          text="@peelear"
-                          href="https://www.instagram.com/peelear/"/>
+                          text="@leonhardtkoepsell"
+                          href="https://www.instagram.com/leonhardtkoepsell/"/>
                     <Item Icon={LinkedIn}
                           title="LinkedIn"
                           text="leonhardtkoepsell"
